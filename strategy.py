@@ -16,7 +16,7 @@ class Final():
 
 	def get_her_transitions(self, stnd_replay):
 		new_goal = stnd_replay[-1][3][:3]	## get the terminal state
-
+	## THIS STRATEGY IS NOT YET IMPLEMENTED ##
 
 class Future ():
 
